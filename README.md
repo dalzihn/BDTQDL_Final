@@ -1,5 +1,5 @@
 # BDTQDL_Final
-This is the repository of Group 3's final project whose subject is Machine Learning and is currently studying in University of Economics Ho Chi Minh city. 
+This is the repository of Group 3's final project whose subject is Data Visualisation and is currently studying and doing research on this discipline in University of Economics Ho Chi Minh city. 
 
 Members: 
 
