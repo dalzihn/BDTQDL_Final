@@ -1,5 +1,5 @@
 # BDTQDL_Final
-Application of visualisation techniques on gym_members_exercise_tracking.csv dataset in order to extract insights about gymers. 
+Application of visualisation techniques on [gym_members_exercise_tracking.csv](https://www.kaggle.com/datasets/valakhorasani/gym-members-exercise-dataset/data) dataset from kaggle in order to extract insights about gymers. 
 
 Contributors: 
 
